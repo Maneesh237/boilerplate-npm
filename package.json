@@ -1,6 +1,6 @@
 {
-	"author": "Maneesh Reddy Thudi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Maneesh Reddy Thudi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
